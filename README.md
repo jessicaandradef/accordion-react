@@ -1,2 +1,2 @@
 # accordion-react
-Created with CodeSandbox
+small accordion using React
